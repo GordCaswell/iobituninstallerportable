@@ -1,0 +1,9 @@
+/*.exe
+
+Data/
+App/uninstaller/
+
+Desktop.ini
+Thumbs.db
+
+App/AppInfo/Launcher/Debug.nsh
